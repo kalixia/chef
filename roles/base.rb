@@ -3,8 +3,8 @@ description "Basic configuration applied to all nodes."
 run_list(
   "recipe[chef-client::delete_validation]",
   "recipe[chef-client::config]",
-  "recipe[chef-client::service]",
-  "recipe[htop]"
+  "recipe[chef-client::service]"
+  #"recipe[htop]"
   #"recipe[ganglia::node]"
   #"recipe[squid-deb-proxy::client]"
 )

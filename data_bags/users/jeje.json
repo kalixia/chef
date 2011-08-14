@@ -1,0 +1,9 @@
+{
+  "id": "jeje",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAtiHommUjxgdNqEZ3YCIdWK8EaW6skmUI3HTCdlVFSrgqx2nNXKa+qjojlPQFmESgT5CZREe9AUKzTvpv+n8qXxl2r4GhoVmBu5+mvNGbwsgT+b3eiikhIfQfMeg9DfwrMUb4I5iIU8LWkLFUQoN2k8a5/qdlosoxVsUXWBSnnHuQJ4nghnJzvffxIG09valxHDYFamvyDD2k6uZcSNs29dYwfU2ioRnzu50K2BbYrCnt0HvEX8WPzKPkp2bUVNlLbK0YzNBo//KutkyjBNSodnbgqSfqkr3oyMX8AlPKiRjnG2ltfjqa31gvlm2vXOCHwVn8bQ4JbNFbop46wncInQ== jeje@luxor.local",
+  "groups": "sysadmin",
+  "uid": 1000,
+  "gid": 1000,
+  "shell": "\/bin\/bash",
+  "comment": "Jerome Bernard"
+}
